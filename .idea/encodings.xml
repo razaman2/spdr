@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/.idea/httpRequests/http-client.cookies" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Console/Commands/GetEtf.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Console/Kernel.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Etf.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Helpers/EtfParser.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/Api/LoginController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/Api/RegisterController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/SpdrController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Providers/AppServiceProvider.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/User.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config/auth.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/database/migrations/2020_02_26_005849_etf_symbol.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/database/migrations/2020_02_26_005906_etf.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/package.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/js/app.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/js/components/Example.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/js/components/app.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/js/components/includes/header.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/js/components/pages/home.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/js/components/pages/login.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/js/components/pages/login.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/app.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/routes/api.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/routes/web.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tests/Feature/ExampleTest.php" charset="UTF-8" />
+  </component>
+</project>
